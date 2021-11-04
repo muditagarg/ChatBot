@@ -20,4 +20,4 @@ c. Transfer a user using the phone gateway <br>
 <br>
 4. Use Dialogflow for troubleshooting.<br>
   <br>
-5. Review logs and debug your virtual agent. <br>
+5. Review logs and debug the virtual agent. <br>
